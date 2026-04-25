@@ -6,7 +6,7 @@ A multi-page Power BI report covering sales, product, and customer performance.
 
 ## Cover
 
-![Cover]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-04-25 112241.png")
+!("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-04-25 112241.png")
 
 ---
 
