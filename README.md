@@ -6,14 +6,15 @@ A multi-page Power BI report covering sales, product, and customer performance.
 
 ## Cover
 
-(<img width="800" height="454" alt="cover_project" src="https://github.com/user-attachments/assets/5e7e56e6-5101-4979-99a8-b29f6c8cb97f" />
-)
+<img width="800" height="454" alt="cover_project" src="https://github.com/user-attachments/assets/5e7e56e6-5101-4979-99a8-b29f6c8cb97f" />
+
 
 ---
 
 ## Business Performance Dashboard
 
-![Business Performance Dashboard](screenshot-main-dashboard.jpg)
+<img width="797" height="451" alt="Business_cover" src="https://github.com/user-attachments/assets/83dd4419-1a9f-40a5-9fad-97b9ac973b36" />
+
 
 **KPIs:** Total Sales: 844.02K · Units Sold: 5,502 · Total Returns: 50
 
@@ -24,7 +25,8 @@ A multi-page Power BI report covering sales, product, and customer performance.
 
 ## Product Performance Analysis
 
-![Product Performance Analysis](screenshot-product-dashboard.jpg)
+<img width="1131" height="637" alt="Product_Performance" src="https://github.com/user-attachments/assets/4ead507c-83fe-4596-9a3e-08cab57c9828" />
+
 
 **Regional Sales:** East 194.45K · South 234.70K · West 195.34K · North 219.54K
 
