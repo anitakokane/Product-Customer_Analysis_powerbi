@@ -11,7 +11,7 @@ A multi-page Power BI report covering sales, product, and customer performance.
 
 ## Business Performance Dashboard
 
-![Business Performance Dashboard]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-04-25 112241.png")
+![Business Performance Dashboard]("Screenshot 2026-04-25 112241.png")
 
 **KPIs:** Total Sales: 844.02K · Units Sold: 5,502 · Total Returns: 50
 
