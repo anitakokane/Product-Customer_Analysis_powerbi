@@ -6,7 +6,7 @@ A multi-page Power BI report covering sales, product, and customer performance.
 
 ## Cover
 
-![Cover](<img width="800" height="454" alt="cover_project" src="https://github.com/user-attachments/assets/5e7e56e6-5101-4979-99a8-b29f6c8cb97f" />
+(<img width="800" height="454" alt="cover_project" src="https://github.com/user-attachments/assets/5e7e56e6-5101-4979-99a8-b29f6c8cb97f" />
 )
 
 ---
